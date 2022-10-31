@@ -1,15 +1,15 @@
 ## About Me 😊
 
-I am currently a student of the Computer Engineering Degree at USAL while working in the research group BISITE as an intern.
+I am currently a third year student of the Computer Engineering Degree at USAL.
 
-I participate in projects related to Big Data and Artificial Intelligence and my work is mainly focused on Backend development tasks.
+I participate in projects related to JavaScript and libraries like React.js.
 
 ## Stack 📚
 
 <p align="center">
   <h6>FrontEnd</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vuejs,react,nodejs,typescript" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs" />
   </a>
 </p>
 <p align="center">
