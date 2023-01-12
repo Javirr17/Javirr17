@@ -9,13 +9,13 @@ I participate in projects related to JavaScript and libraries like React.js.
 <p align="center">
   <h6>FrontEnd</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,vue" />
   </a>
 </p>
 <p align="center">
   <h6>BackEnd</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,java" />
+    <img src="https://skillicons.dev/icons?i=express,java,django" />
   </a>
 </p>
 <p align="center">
@@ -27,7 +27,7 @@ I participate in projects related to JavaScript and libraries like React.js.
 <p align="center">
   <h6>Tools</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=git,docker" />
   </a>
 </p>
 
