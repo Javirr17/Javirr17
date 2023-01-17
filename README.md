@@ -1,4 +1,4 @@
-## About Me 😊
+## About Me 
 
 I am currently a third year student of the Computer Engineering Degree at USAL.
 
