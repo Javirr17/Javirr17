@@ -21,7 +21,7 @@ I participate in projects related to JavaScript and libraries like React.js.
 <p align="center">
   <h6>DataBase</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb" />
+    <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
   </a>
 </p>
 <p align="center">
