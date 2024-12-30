@@ -9,7 +9,7 @@ I am currently a Computer Engineering Master student at USAL.
 <p align="center">
   <h6>BackEnd</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,nodejs,java,springboot" />
+    <img src="https://skillicons.dev/icons?i=express,nodejs,java,spring" />
   </a>
 </p>
 <p align="center">
