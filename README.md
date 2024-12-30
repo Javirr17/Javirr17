@@ -1,21 +1,15 @@
 ## About Me 
 
-I am currently a third year student of the Computer Engineering Degree at USAL.
+Graduate in Computer Engineering at USAL.
 
-I participate in projects related to JavaScript and libraries like React.js.
+I am currently a Computer Engineering Master student at USAL.
 
 ## Stack 📚
 
 <p align="center">
-  <h6>FrontEnd</h6>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue" />
-  </a>
-</p>
-<p align="center">
   <h6>BackEnd</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,java,django,nodejs" />
+    <img src="https://skillicons.dev/icons?i=express,nodejs,java,springboot" />
   </a>
 </p>
 <p align="center">
