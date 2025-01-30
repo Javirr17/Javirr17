@@ -21,7 +21,7 @@ I am currently a Computer Engineering Master student at USAL.
 <p align="center">
   <h6>Tools</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker" />
+    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes" />
   </a>
 </p>
 
